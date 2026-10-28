@@ -1,0 +1,20 @@
+# 1. Environment and Database files
+# Never push your database connection credentials to GitHub
+database.php
+.env
+
+# 2. Code Editor files
+# If you use VS Code, it creates a hidden folder for settings
+.vscode/
+.idea/
+
+# 3. Operating System files
+# Mac users generate this file automatically
+.DS_Store
+# Windows users generate these files automatically
+Thumbs.db
+desktop.ini
+
+# 4. Logs and temporary files
+*.log
+error_log
